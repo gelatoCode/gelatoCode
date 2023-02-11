@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @gelatoCode
 - 👀 I’m interested in NodeJS 
 - 🌱 I’m currently learning NodeJS
+-  I'm like to explore 🔍 code
+-  I'm like to copying ©️ code
+-  I'm like to observing and combine code 💻
+- 
 
 <!---
 gelatoCode/gelatoCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
