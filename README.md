@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gelatoCode
+- 👋 Hi, I’m @gelatoCode, still have to learn more and I will build what , I already learn and understand.
 - 👀 I’m interested in NodeJS 
 - 🌱 I’m currently learning NodeJS
 -  I'm like to explore 🔍 code
